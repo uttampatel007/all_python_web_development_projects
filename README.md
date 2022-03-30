@@ -1,4 +1,4 @@
-# List of all python web development projects
+# List of All Python Web Development Projects
 
 ### DJANGO
 ------------------------------------------------------------------------------------------------
@@ -25,7 +25,7 @@ Can run with docker compose
 
 Repo: * [Click here](https://github.com/uttampatel007/flasker/tree/master/flasker)
 
-#### 2) Flask Chat Bot using RASA
+#### 2) Flask Chat Bot Using RASA
 Repo: * [Click here](https://github.com/uttampatel007/chatbot-phase-1)
 
 #### 3) Flask SQL Alchemy ORM 

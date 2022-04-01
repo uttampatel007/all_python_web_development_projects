@@ -42,5 +42,9 @@ Dockerfile is present
 Repo: * [Click here](https://github.com/uttampatel007/fast_api_poc)
 
 
+### AWS
+------------------------------------------------------------------------------------------------
+#### 1) AWS SQS Producer & Consumer
+Repo: * [Click here](https://github.com/uttampatel007/aws-sqs)
 
 

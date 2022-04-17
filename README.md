@@ -16,6 +16,9 @@ Live Link: https://myrituals.herokuapp.com/
 
 Repo: * [Click here](https://github.com/uttampatel007/django-daily-rituals)
 
+#### 5) Django Celery
+Repo: * [Click here](https://github.com/uttampatel007/django-celery)
+
 <br/><br/>
 
 ### FLASK

@@ -8,7 +8,7 @@ Repo: * [Click here](https://github.com/uttampatel007/django-drf)
 #### 2) Django Postgres Fulltext Search POC
 Repo: * [Click here](https://github.com/uttampatel007/django-postgres-full-text-search)
 
-#### 3) Django Open Source Social Media Project (15 Stars)
+#### 3) Django Open Source Social Media Project (10+ Stars)
 Repo: * [Click here](https://github.com/uttampatel007/nccbuddy)
 
 #### 4) Django Hobby Project : Daily Rituals
